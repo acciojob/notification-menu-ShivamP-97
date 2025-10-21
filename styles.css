@@ -12,6 +12,12 @@
   margin: 0;
   margin-bottom: 10px;
 }
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: black;
+  text-decoration-style: solid;
+}
 .notification {
   display: flex;
   background-color: white;
